@@ -1,0 +1,71 @@
+id_cliente,nombre,email,fecha_registro,ciudad,pais
+1,"Raul Salvatierra",raul.salvatierra.35@gmail.com,"2026-01-19 12:59:30",Brooklyn,USA
+2,"Maria Perez",maria@hotmail.com,"2026-01-19 12:59:30","Buenos Aires",Argentina
+3,"Carlos Lopez",carlos@gmail.com,"2026-01-19 12:59:30",Madrid,España
+4,"Gian Tenorio",gian.tenorio6@gmail.com,"2026-01-19 12:59:30",Cali,Colombia
+5,"Brian Scheller",bscheller@gmail.com,"2026-01-19 12:59:30",Brooklyn,USA
+6,"Juan Perez",juan.perez@gmail.com,"2026-01-19 12:59:30","Buenos Aires",Argentina
+7,"Maria Gonzalez",maria.gonzalez@yahoo.com,"2026-01-19 12:59:30",Santiago,Chile
+8,"Carlos Ramirez",carlos.ramirez@hotmail.com,"2026-01-19 12:59:30",Lima,Peru
+9,"Ana Fernandez",ana.fernandez@gmail.com,"2026-01-19 12:59:30",Bogotá,Colombia
+10,"Luis Martinez",luis.martinez@yahoo.com,"2026-01-19 12:59:30",Quito,Ecuador
+11,"Sofia Lopez",sofia.lopez@hotmail.com,"2026-01-19 12:59:30",Montevideo,Uruguay
+12,"Diego Sanchez",diego.sanchez@gmail.com,"2026-01-19 12:59:30",Asunción,Paraguay
+13,"Camila Torres",camila.torres@yahoo.com,"2026-01-19 12:59:30","La Paz",Bolivia
+14,"Jose Castillo",jose.castillo@hotmail.com,"2026-01-19 12:59:30",Caracas,Venezuela
+15,"Valentina Herrera",valentina.herrera@gmail.com,"2026-01-19 12:59:30","Ciudad de Mexico",Mexico
+16,"Ricardo Morales",ricardo.morales@yahoo.com,"2026-01-19 12:59:30",Guadalajara,Mexico
+17,"Fernanda Diaz",fernanda.diaz@hotmail.com,"2026-01-19 12:59:30",Medellín,Colombia
+18,"Gabriel Ortiz",gabriel.ortiz@gmail.com,"2026-01-19 12:59:30","Santo Domingo","Republica Dominicana"
+19,"Isabella Reyes",isabella.reyes@yahoo.com,"2026-01-19 12:59:30","San Juan","Puerto Rico"
+20,"Matias Rojas",matias.rojas@hotmail.com,"2026-01-19 12:59:30",Montevideo,Uruguay
+21,"Andres Molina",andres.molina@gmail.com,"2026-01-19 12:59:30",Rosario,Argentina
+22,"Lucia Benitez",lucia.benitez@yahoo.com,"2026-01-19 12:59:30",Córdoba,Argentina
+23,"Pablo Aguirre",pablo.aguirre@hotmail.com,"2026-01-19 12:59:30",Mendoza,Argentina
+24,"Mariana Soto",mariana.soto@gmail.com,"2026-01-19 12:59:30","La Plata",Argentina
+25,"Nicolas Ibarra",nicolas.ibarra@gmail.com,"2026-01-19 12:59:30","Mar del Plata",Argentina
+26,"Pedro Alvarez",pedro.alvarez@gmail.com,"2026-01-19 12:59:30",Valparaíso,Chile
+27,"Daniela Fuentes",daniela.fuentes@yahoo.com,"2026-01-19 12:59:30",Concepción,Chile
+28,"Sebastian Muñoz",sebastian.munoz@hotmail.com,"2026-01-19 12:59:30",Antofagasta,Chile
+29,"Jorge Pineda",jorge.pineda@gmail.com,"2026-01-19 12:59:30","San Salvador","El Salvador"
+30,"Karen Morales",karen.morales@yahoo.com,"2026-01-19 12:59:30",Tegucigalpa,Honduras
+31,"Oscar Mejia",oscar.mejia@gmail.com,"2026-01-19 12:59:30","Guatemala City",Guatemala
+32,"Paola Cardenas",paola.cardenas@hotmail.com,"2026-01-19 12:59:30",Managua,Nicaragua
+33,"Miguel Torres",miguel.torres@gmail.com,"2026-01-19 12:59:30","San Jose","Costa Rica"
+34,"Laura Jimenez",laura.jimenez@yahoo.com,"2026-01-19 12:59:30","Panama City",Panama
+35,"Roberto Silva",roberto.silva@gmail.com,"2026-01-19 12:59:30","São Paulo",Brasil
+36,"Fernanda Rocha",fernanda.rocha@hotmail.com,"2026-01-19 12:59:30","Rio de Janeiro",Brasil
+37,"Thiago Pereira",thiago.pereira@yahoo.com,"2026-01-19 12:59:30",Curitiba,Brasil
+38,"Alejandro Cruz",alejandro.cruz@gmail.com,"2026-01-19 12:59:30",Puebla,Mexico
+39,"Monica Estrada",monica.estrada@hotmail.com,"2026-01-19 12:59:30",Monterrey,Mexico
+40,"Hector Villalobos",hector.villalobos@yahoo.com,"2026-01-19 12:59:30",Toluca,Mexico
+41,"Jonathan Miller",jonathan.miller@gmail.com,"2026-01-19 12:59:30",Queens,USA
+42,"Emily Johnson",emily.johnson@yahoo.com,"2026-01-19 12:59:30",Manhattan,USA
+43,"Michael Brown",michael.brown@hotmail.com,"2026-01-19 12:59:30",Bronx,USA
+44,"Sarah Wilson",sarah.wilson@gmail.com,"2026-01-19 12:59:30","Jersey City",USA
+45,"Kevin OConnor",kevin.oconnor@gmail.com,"2026-01-19 12:59:30",Dublin,Ireland
+46,"Emma Walsh",emma.walsh@yahoo.com,"2026-01-19 12:59:30",Cork,Ireland
+47,"Luca Bianchi",luca.bianchi@gmail.com,"2026-01-19 12:59:30",Milan,Italia
+48,"Marco Rossi",marco.rossi@hotmail.com,"2026-01-19 12:59:30",Rome,Italia
+49,"Thomas Keller",thomas.keller@gmail.com,"2026-01-19 12:59:30",Berlin,Alemania
+50,"Anna Schmidt",anna.schmidt@yahoo.com,"2026-01-19 12:59:30",Hamburg,Alemania
+51,"Julian Navarro",julian.navarro@gmail.com,"2026-01-19 12:59:30",Salta,Argentina
+52,"Carolina Funes",carolina.funes@yahoo.com,"2026-01-19 12:59:30","San Luis",Argentina
+53,"Tomas Calderon",tomas.calderon@hotmail.com,"2026-01-19 12:59:30",Neuquén,Argentina
+54,"Rocio Peralta",rocio.peralta@gmail.com,"2026-01-19 12:59:30","Río Gallegos",Argentina
+55,"Esteban Quiroga",esteban.quiroga@yahoo.com,"2026-01-19 12:59:30","San Miguel de Tucumán",Argentina
+56,"Hernan Bustos",hernan.bustos@gmail.com,"2026-01-19 12:59:30",Iquique,Chile
+57,"Natalia Araya",natalia.araya@hotmail.com,"2026-01-19 12:59:30",Rancagua,Chile
+58,"Felipe Contreras",felipe.contreras@yahoo.com,"2026-01-19 12:59:30",Talca,Chile
+59,"Victor Salinas",victor.salinas@gmail.com,"2026-01-19 12:59:30",Arequipa,Peru
+60,"Daniela Rivas",daniela.rivas@hotmail.com,"2026-01-19 12:59:30",Trujillo,Peru
+61,"Mauricio Beltran",mauricio.beltran@gmail.com,"2026-01-19 12:59:30",Cochabamba,Bolivia
+62,"Paula Villarroel",paula.villarroel@yahoo.com,"2026-01-19 12:59:30","Santa Cruz",Bolivia
+63,"Ivan Montenegro",ivan.montenegro@gmail.com,"2026-01-19 12:59:30",Cuenca,Ecuador
+64,"Lorena Pacheco",lorena.pacheco@hotmail.com,"2026-01-19 12:59:30",Ambato,Ecuador
+65,"Sergio Acosta",sergio.acosta@gmail.com,"2026-01-19 12:59:30",Barranquilla,Colombia
+66,"Tatiana Mejia",tatiana.mejia@yahoo.com,"2026-01-19 12:59:30",Bucaramanga,Colombia
+67,"Alberto Figueroa",alberto.figueroa@gmail.com,"2026-01-19 12:59:30",León,Mexico
+68,"Renata Solis",renata.solis@hotmail.com,"2026-01-19 12:59:30",Aguascalientes,Mexico
+69,"Daniel Hoffman",daniel.hoffman@gmail.com,"2026-01-19 12:59:30",Munich,Alemania
+70,"Klara Weiss",klara.weiss@yahoo.com,"2026-01-19 12:59:30",Stuttgart,Alemania
